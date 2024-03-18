@@ -1,0 +1,35 @@
+/* HOJA DE ESTILO */
+body{
+    font-family: "Truculenta", sans-serif;
+
+    /* centrar todo */
+    padding: 100px;
+}
+
+/* tamaño y forma de la fotografia */
+.fotografia{
+    border-radius: 10px;
+    width: 300px;
+}
+
+/* posicion columna */
+.principal{
+    display: flex;
+}
+
+.columna1{
+    width: 60%;
+}
+
+.columna2{
+    width: 40%;
+}
+
+/* posicion */
+.seccion2{
+    display: flex;
+}
+
+.seccion4{
+    display: flex;
+}
